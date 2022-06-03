@@ -1,0 +1,2 @@
+# litemagic
+Jupyterlite productivity utilities
